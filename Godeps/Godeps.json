@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/wpsmith/slackup",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/wpsmith/slash",
+			"Rev": "e5b7672ea2d6295b64aebebab69cc46a5696fddd"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+---
+applications:
+- name: slackstandup
+  memory: 128M
+  buildpack: go_buildpack
+  routes:
+    - route: slackstandup.mybluemix.net
